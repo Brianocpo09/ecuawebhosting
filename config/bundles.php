@@ -12,5 +12,5 @@ return [
     Symfony\Bundle\MonologBundle\MonologBundle::class => ['all' => true],
     Symfony\Bundle\DebugBundle\DebugBundle::class => ['dev' => true, 'test' => true],
     Symfony\Bundle\MakerBundle\MakerBundle::class => ['dev' => true],
-    App\Core\SecurityBundle\SecurityBundle::class => ['all' => true],
+    App\Core\AdministracionBundle\AdministracionBundle::class => ['all' => true],
 ];
